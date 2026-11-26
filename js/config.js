@@ -28,7 +28,7 @@ window.FHNG_CONFIG = {
   //   e.g. "https://script.google.com/macros/s/AKfy.../exec".
   // Bluehost (PHP): "api/order.php".
   // Left empty, "Place order" offers to send the order on WhatsApp instead.
-  orderEndpoint: "",
+  orderEndpoint: "https://script.google.com/macros/s/AKfycbzOe1ov-Y8nYSBMWzarUgqkzLWUlDxCkA4yQBHDkpDe-uLSrqZ508eSmqpfZ7m3u98Egg/exec",
 
   // The watches, prices and states.
   shopFile: "data/shop.json",
